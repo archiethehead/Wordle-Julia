@@ -9,6 +9,9 @@ The repository source can be cloned with the following command:
 A copy of the Julia JIT compiler will be necessary in order to run this program. Standard Wordle rules apply, 6 guesses, you're told what letters are in the word and if they're in the correct place. Julia can be installed with the following link:
 > https://julialang.org/downloads/
 
+Once this requirement is satisfied, the following command ran in the terminal will play Wordle:
+> Julia Wordle.jl
+
 ## Contributors
 Mr. Archie T. Healy - archiehealy06@gmail.com
 
