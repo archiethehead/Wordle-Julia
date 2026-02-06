@@ -11,7 +11,7 @@ end
 
 function random_element(array::Vector)
 
-    index = rand((1, size(array, 1)))
+    index = rand(1:size(array, 1))
     return array[index]
 
 end
